@@ -35,9 +35,7 @@
  * }
  */
 
-package Day_4;
-
-import java.util.ArrayList;
+package Week_1.Day_4;
 
 public class Middle_of_the_Linked_List_876 {
 //    public ListNode middleNode(ListNode head) {

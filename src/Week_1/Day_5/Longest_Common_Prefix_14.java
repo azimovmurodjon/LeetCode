@@ -23,7 +23,7 @@
  * strs[i] consists of only lowercase English letters.
  */
 
-package Day_5;
+package Week_1.Day_5;
 
 public class Longest_Common_Prefix_14 {
     public String longestCommonPrefix(String[] strs) {

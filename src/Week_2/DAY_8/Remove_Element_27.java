@@ -47,7 +47,7 @@
  * 0 <= val <= 100
  */
 
-package DAY_8;
+package Week_2.DAY_8;
 
 public class Remove_Element_27 {
     public int removeElement(int[] nums, int val) {

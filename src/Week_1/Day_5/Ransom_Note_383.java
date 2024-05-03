@@ -25,7 +25,7 @@
  * ransomNote and magazine consist of lowercase English letters.
  */
 
-package Day_5;
+package Week_1.Day_5;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package Day_1;
+package Week_1.Day_1;
 
 /**
  * 1480. Running Sum of 1D Array Solution

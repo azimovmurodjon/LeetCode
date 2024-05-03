@@ -42,7 +42,7 @@
  * }
  */
 
-package Day_6;
+package Week_1.Day_6;
 
 
 public class Merge_Two_Sorted_Lists_21 {

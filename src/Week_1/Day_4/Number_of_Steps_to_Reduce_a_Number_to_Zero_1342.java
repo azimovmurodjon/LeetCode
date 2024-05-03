@@ -35,7 +35,7 @@
  *
  * 0 <= num <= 106
  */
-package Day_4;
+package Week_1.Day_4;
 
 public class Number_of_Steps_to_Reduce_a_Number_to_Zero_1342 {
     public int numberOfSteps(int num) {

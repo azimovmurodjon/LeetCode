@@ -43,7 +43,7 @@
  * nums is sorted in non-decreasing order.
  */
 
-package Day_7;
+package Week_1.Day_7;
 
 public class Remove_Duplicates_from_Sorted_Array_26 {
     public int removeDuplicates(int[] nums) {

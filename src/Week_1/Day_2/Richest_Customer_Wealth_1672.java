@@ -1,4 +1,4 @@
-package Day_2;
+package Week_1.Day_2;
 
 public class Richest_Customer_Wealth_1672 {
     public int maximumWealth(int[][] accounts){
