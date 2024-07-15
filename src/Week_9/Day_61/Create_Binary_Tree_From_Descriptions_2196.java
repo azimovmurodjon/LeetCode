@@ -40,7 +40,6 @@ class TreeNode {
         this.right = right;
     }
 }
-
 public class Create_Binary_Tree_From_Descriptions_2196 {
     /**
      * Creates a binary tree from a list of node descriptions.
