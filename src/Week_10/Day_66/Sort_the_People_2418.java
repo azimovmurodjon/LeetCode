@@ -6,7 +6,6 @@ public class Sort_the_People_2418 {
     public String[] sortPeople(String[] names, int[] heights) {
         // Extract the number of elements from the names array, which also applies to the heights array.
         int numberOfPeople = names.length;
-
         // Create an array of indices representing each person.
         Integer[] indices = new Integer[numberOfPeople];
 
