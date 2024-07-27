@@ -1,7 +1,6 @@
 package Week_10.Day_66;
 
 import java.util.Arrays;
-
 public class Sort_the_People_2418 {
     public String[] sortPeople(String[] names, int[] heights) {
         // Extract the number of elements from the names array, which also applies to the heights array.
